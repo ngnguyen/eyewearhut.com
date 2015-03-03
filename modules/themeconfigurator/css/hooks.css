@@ -20,9 +20,9 @@
 
 /* Top hook CSS */
   #htmlcontent_top {
-    float: right;
-    width: 33%;
-    max-width: 391px;
+    //float: right;
+    //width: 33%;
+    //max-width: 391px;
     padding-left: 5px;
 }
   @media (max-width: 767px) {
@@ -35,7 +35,7 @@
     #htmlcontent_top ul {
       margin: 0 -5px; } }
   #htmlcontent_top ul li {
-    width: 100%;
+    //width: 100%;
     margin-bottom: 10px; }
     @media (max-width: 767px) {
       #htmlcontent_top ul li {
@@ -47,7 +47,7 @@
       margin-bottom: 0; }
     #htmlcontent_top ul li img {
       max-width: 100%;
-      height: auto; }
+      //height: auto; }
 
 /* Left hook CSS */
 /* Right hook CSS */

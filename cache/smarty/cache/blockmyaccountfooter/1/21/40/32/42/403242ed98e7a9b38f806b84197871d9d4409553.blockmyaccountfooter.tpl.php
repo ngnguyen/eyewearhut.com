@@ -10,20 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '1483454f53548348ce2-94633555',
-  'variables' => 
-  array (
-    'link' => 0,
-    'returnAllowed' => 0,
-    'voucherAllowed' => 0,
-    'HOOK_BLOCK_MY_ACCOUNT' => 0,
-    'is_logged' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54f535485cd601_29773068',
+  'unifunc' => 'content_54f53c23a23df0_69237115',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54f535485cd601_29773068')) {function content_54f535485cd601_29773068($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54f53c23a23df0_69237115')) {function content_54f53c23a23df0_69237115($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/eyewearhut.com/index.php?controller=my-account" title="Manage my customer account" rel="nofollow">My account</a></h4>

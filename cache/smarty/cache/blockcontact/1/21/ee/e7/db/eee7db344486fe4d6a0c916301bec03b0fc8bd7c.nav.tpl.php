@@ -10,17 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '2252154f53548bbcfe3-57644753',
-  'variables' => 
-  array (
-    'link' => 0,
-    'telnumber' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54f53548c51709_35860563',
+  'unifunc' => 'content_54f53c23bd57d2_41720675',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54f53548c51709_35860563')) {function content_54f53548c51709_35860563($_smarty_tpl) {?><div id="contact-link">
+<?php if ($_valid && !is_callable('content_54f53c23bd57d2_41720675')) {function content_54f53c23bd57d2_41720675($_smarty_tpl) {?><div id="contact-link">
 	<a href="http://localhost/eyewearhut.com/index.php?controller=contact" title="Contact us">Contact us</a>
 </div>
 	<span class="shop-phone">

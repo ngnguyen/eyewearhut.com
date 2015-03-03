@@ -10,17 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '2143154f53543d84ef7-71369440',
-  'variables' => 
-  array (
-    'link' => 0,
-    'search_query' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_54f53543ed4e46_23669712',
+  'unifunc' => 'content_54f53c223267b6_16998858',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54f53543ed4e46_23669712')) {function content_54f53543ed4e46_23669712($_smarty_tpl) {?><!-- Block search module TOP -->
+<?php if ($_valid && !is_callable('content_54f53c223267b6_16998858')) {function content_54f53c223267b6_16998858($_smarty_tpl) {?><!-- Block search module TOP -->
 <div id="search_block_top" class="col-sm-4 clearfix">
 	<form id="searchbox" method="get" action="//localhost/eyewearhut.com/index.php?controller=search" >
 		<input type="hidden" name="controller" value="search" />

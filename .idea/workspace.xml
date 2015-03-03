@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaa6a7ec-327d-407a-a026-245778a3c652" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp\www\eyewearhut.com\cache\smarty\cache\homeslider\1\21\80\95\be\8095be1ff320c633abb423e6812b55e6cba6daba.homeslider.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\eyewearhut.com\img\logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\eyewearhut.com\modules\themeconfigurator\img\banner-img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\eyewearhut.com\modules\themeconfigurator\img\banner-img7.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcms/2/1/21/00/95/30/009530cfc63148c31302600fe364faf6169953f1.blockcms.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockcms/2/1/21/00/95/30/009530cfc63148c31302600fe364faf6169953f1.blockcms.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcontactinfos/1/21/02/3c/ec/023cec1137aae47a00cfe7a5677fc73a6d3a75f8.blockcontactinfos.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockcontactinfos/1/21/02/3c/ec/023cec1137aae47a00cfe7a5677fc73a6d3a75f8.blockcontactinfos.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/1/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/1/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/2/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/2/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/3/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/3/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/4/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/4/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/5/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/5/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/6/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/6/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/7/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/productcomments/1/21/7/08/bb/53/08bb538820f60f518170e7f825f8b624cb93bfd0.productcomments_reviews.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcmsinfo/1/21/0f/b1/9a/0fb19a43b8d330e3a178a53a41b7a9b4084b1ee0.blockcmsinfo.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockcmsinfo/1/21/0f/b1/9a/0fb19a43b8d330e3a178a53a41b7a9b4084b1ee0.blockcmsinfo.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/21/index/25/a5/c1/25a5c11d6fe645d1345f53b8287cb7c36ddec9f7.blocktopmenu.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blocktopmenu/1/21/index/25/a5/c1/25a5c11d6fe645d1345f53b8287cb7c36ddec9f7.blocktopmenu.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockmyaccountfooter/1/21/40/32/42/403242ed98e7a9b38f806b84197871d9d4409553.blockmyaccountfooter.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockmyaccountfooter/1/21/40/32/42/403242ed98e7a9b38f806b84197871d9d4409553.blockmyaccountfooter.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/homefeatured/1/21/4e/6d/42/4e6d424410ac094a8dd91586178e75b7006aa6b7.homefeatured.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/homefeatured/1/21/4e/6d/42/4e6d424410ac094a8dd91586178e75b7006aa6b7.homefeatured.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockbestsellers_tab/1/21/69/35/01/693501ca52be381f25f9f986b91d1f847e882166.tab.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockbestsellers_tab/1/21/69/35/01/693501ca52be381f25f9f986b91d1f847e882166.tab.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockfacebook/1/21/7e/1e/08/7e1e08b45f6b0982c31c0043675e4150b0fd59ea.blockfacebook.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockfacebook/1/21/7e/1e/08/7e1e08b45f6b0982c31c0043675e4150b0fd59ea.blockfacebook.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocksearch_top/1/21/7e/51/71/7e517181b3aab47d126e0df3ac474ea2b7593abf.blocksearch-top.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blocksearch_top/1/21/7e/51/71/7e517181b3aab47d126e0df3ac474ea2b7593abf.blocksearch-top.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/homefeatured_tab/1/21/94/d6/69/94d66955c4a40f1242ff1532a548b8c78808033f.tab.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/homefeatured_tab/1/21/94/d6/69/94d66955c4a40f1242ff1532a548b8c78808033f.tab.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockbanner/1/21/bc/d6/9d/bcd69d4dd8d359d545bc6571bfb2ba0713e2fd39.blockbanner.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockbanner/1/21/bc/d6/9d/bcd69d4dd8d359d545bc6571bfb2ba0713e2fd39.blockbanner.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocknewproducts_home/20150302/1/21/be/d9/61/bed961bed5291f1b2aa8fc2a316022e775a60a5e.blocknewproducts_home.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blocknewproducts_home/20150302/1/21/be/d9/61/bed961bed5291f1b2aa8fc2a316022e775a60a5e.blocknewproducts_home.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/21/1/cb/d2/18/cbd218582ecf06b7b117a77cb1c597818e6a477f.blockcategories_footer.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockcategories/1/21/1/cb/d2/18/cbd218582ecf06b7b117a77cb1c597818e6a477f.blockcategories_footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/homeslider/config.xml" afterPath="$PROJECT_DIR$/modules/homeslider/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocknewproducts_tab/20150302/1/21/d1/ee/e9/d1eee9a6509b7bdc747711b3d313ef6a843f87cc.tab.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blocknewproducts_tab/20150302/1/21/d1/ee/e9/d1eee9a6509b7bdc747711b3d313ef6a843f87cc.tab.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials_tab/20150302/1/21/d8/43/0f/d8430fe5fc306bf7070b52b6a67d02e5312ca188.tab.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockspecials_tab/20150302/1/21/d8/43/0f/d8430fe5fc306bf7070b52b6a67d02e5312ca188.tab.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blocksocial/1/21/e5/82/3f/e5823f22a0a880f88a8a59e566cfc6ba5b5791d5.blocksocial.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blocksocial/1/21/e5/82/3f/e5823f22a0a880f88a8a59e566cfc6ba5b5791d5.blocksocial.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockbestsellers_home/1/21/e7/7d/92/e77d92d09ebe6981bd1a8fc2432e25eb0db93db0.blockbestsellers-home.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockbestsellers_home/1/21/e7/7d/92/e77d92d09ebe6981bd1a8fc2432e25eb0db93db0.blockbestsellers-home.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockspecials_home/20150302/1/21/e7/8d/4f/e78d4f81079aeb963a75a9b72402007e77c59eef.blockspecials-home.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockspecials_home/20150302/1/21/e7/8d/4f/e78d4f81079aeb963a75a9b72402007e77c59eef.blockspecials-home.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/cache/blockcontact/1/21/ee/e7/db/eee7db344486fe4d6a0c916301bec03b0fc8bd7c.nav.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/cache/blockcontact/1/21/ee/e7/db/eee7db344486fe4d6a0c916301bec03b0fc8bd7c.nav.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/default-bootstrap/css/global.css" afterPath="$PROJECT_DIR$/themes/default-bootstrap/css/global.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/homeslider/homeslider.php" afterPath="$PROJECT_DIR$/modules/homeslider/homeslider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/themeconfigurator/css/hooks.css" afterPath="$PROJECT_DIR$/modules/themeconfigurator/css/hooks.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/themeconfigurator/sass/hooks.scss" afterPath="$PROJECT_DIR$/modules/themeconfigurator/sass/hooks.scss" />
+    </list>
+    <ignored path="eyewearhut.com.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="eyewearhut.com" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="hooks.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/sass/hooks.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.5542169" vertical-offset="671" max-vertical-offset="1640">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hooks.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/css/hooks.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1180">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="12800" max-vertical-offset="166220">
+              <caret line="648" column="11" selection-start-line="648" selection-start-column="11" selection-end-line="648" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modules/themeconfigurator/sass/hooks.scss" />
+        <option value="$PROJECT_DIR$/modules/themeconfigurator/css/hooks.css" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/css/global.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eyewearhut.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eyewearhut.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eyewearhut.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="line nu&#9;null&#9;null" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaa6a7ec-327d-407a-a026-245778a3c652" name="Default" comment="" />
+      <created>1425358748218</created>
+      <option name="number" value="Default" />
+      <updated>1425358748218</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15008156" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18835099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/sass/hooks.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5542169" vertical-offset="671" max-vertical-offset="1640">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/admin/AdminPerformanceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06651885" vertical-offset="770" max-vertical-offset="19940">
+          <caret line="63" column="254" selection-start-line="63" selection-start-column="254" selection-end-line="63" selection-end-column="254" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/themeconfigurator/css/hooks.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="567" max-vertical-offset="1180">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="12800" max-vertical-offset="166220">
+          <caret line="648" column="11" selection-start-line="648" selection-start-column="11" selection-end-line="648" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
